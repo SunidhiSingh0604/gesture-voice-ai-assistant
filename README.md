@@ -115,17 +115,36 @@ python main.py
 
 <h2>📂 Project Structure</h2>
 
+## 📂 Project Structure
+
 <pre>
 gesture-voice-ai-assistant/
 │
-├── main.py
-├── config/
-├── features/
-├── gesture/
-├── voice/
-├── assets/
-├── requirements.txt
-└── README.md
+├── 📁 <a href="./config/">config/</a>
+│   ├── 📄 <a href="./config/__init__.py">__init__.py</a>
+│   ├── 📄 <a href="./config/config.example.env">config.example.env</a>
+│   └── 📄 <a href="./config/settings.py">settings.py</a>
+│
+├── 📁 <a href="./features/">features/</a>
+│   ├── 📄 <a href="./features/__init__.py">__init__.py</a>
+│   ├── 📄 <a href="./features/apps.py">apps.py</a>
+│   ├── 📄 <a href="./features/browser.py">browser.py</a>
+│   └── 📄 <a href="./features/weather.py">weather.py</a>
+│
+├── 📁 <a href="./gesture/">gesture/</a>
+│   ├── 📄 <a href="./gesture/__init__.py">__init__.py</a>
+│   └── 📄 <a href="./gesture/gesture_control.py">gesture_control.py</a>
+│
+├── 📁 <a href="./voice/">voice/</a>
+│   ├── 📄 <a href="./voice/__init__.py">__init__.py</a>
+│   ├── 📄 <a href="./voice/assistant.py">assistant.py</a>
+│   ├── 📄 <a href="./voice/speech.py">speech.py</a>
+│   └── 📄 <a href="./voice/tts.py">tts.py</a>
+│
+├── 📄 <a href="./.gitignore">.gitignore</a>
+├── 📄 <a href="./README.md">README.md</a>
+├── 📄 <a href="./main.py">main.py</a>
+└── 📄 <a href="./requirements.txt">requirements.txt</a>
 </pre>
 
 <hr>
