@@ -78,6 +78,16 @@ This project provides a <strong>touchless interaction system</strong>, enabling 
 
 <hr>
 
+<h2>🧠 System Architecture</h2>
+
+<p><strong>Gesture Pipeline</strong></p>
+<p>Camera → MediaPipe → Gesture → Mouse</p>
+
+<p><strong>Voice Pipeline</strong></p>
+<p>Microphone → SpeechRecognition → Command → Action</p>
+
+<hr>
+
 <h2>📊 Key Insights / Results</h2>
 
 <ul>
