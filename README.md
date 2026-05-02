@@ -1,5 +1,5 @@
-# gesture-voice-ai-assistant
-<h1>🤖 AI Gesture & Voice Assistant</h1>
+
+<h1>AI Gesture & Voice Assistant</h1>
 
 <p>
 Control your computer using <strong>hand gestures and voice commands</strong> — a real-time system combining computer vision and voice AI.
