@@ -169,12 +169,13 @@ gesture-voice-ai-assistant/
 
 <h2>👩‍💻 Author</h2>
 
-<p><strong>Sunidhi Singh</strong><br>
-B.Tech CSE | Aspiring Data Analyst / Software Developer</p>
+<h2>👨‍💻 Author</h2>
+<p>Hey, I'm Sunidhi Singh — focused on building practical AI and automation systems for real-world use.</p>
+<p>📧 Connect with me on 
+<a href="https://www.linkedin.com/in/sunidhi-singh-4aa45233b" target="_blank">
+LinkedIn
+</a>
 
-<p>
-LinkedIn: https://linkedin.com/in/your-profile<br>
-GitHub: https://github.com/your-username
 </p>
 
 <hr>
