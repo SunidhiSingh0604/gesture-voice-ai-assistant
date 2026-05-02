@@ -167,7 +167,7 @@ gesture-voice-ai-assistant/
 
 <hr>
 
-<h2>👩‍💻 Author</h2>
+
 
 <h2>👨‍💻 Author</h2>
 <p>Hey, I'm Sunidhi Singh — focused on building practical AI and automation systems for real-world use.</p>
