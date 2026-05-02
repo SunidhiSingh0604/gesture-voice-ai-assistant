@@ -1,4 +1,13 @@
-
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Mouse_Control-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-Voice_Input-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-Text_to_Speech-FF9800?style=for-the-badge&logo=python&logoColor=white)
+![Threading](https://img.shields.io/badge/Multithreading-Parallel_Execution-9C27B0?style=for-the-badge&logo=python&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-Weather_API-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 <h1>AI Gesture & Voice Assistant</h1>
 
 <p>
