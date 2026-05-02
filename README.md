@@ -122,7 +122,6 @@ python main.py
 
 <hr>
 
-<h2>📂 Project Structure</h2>
 
 ## 📂 Project Structure
 
