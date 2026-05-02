@@ -6,7 +6,6 @@
 ![pyttsx3](https://img.shields.io/badge/pyttsx3-Text_to_Speech-FF9800?style=for-the-badge&logo=python&logoColor=white)
 ![Threading](https://img.shields.io/badge/Multithreading-Parallel_Execution-9C27B0?style=for-the-badge&logo=python&logoColor=white)
 ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-Weather_API-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 <h1>AI Gesture & Voice Assistant</h1>
 
