@@ -81,23 +81,6 @@ This project provides a <strong>touchless interaction system</strong>, enabling 
 
 <hr>
 
-<h2>🖼️ Screenshots / Dashboard Preview</h2>
-
-<p>Add these (VERY IMPORTANT):</p>
-
-<ul>
-<li>Gesture controlling mouse</li>
-<li>Voice command execution</li>
-<li>Weather output</li>
-</ul>
-
-<pre>
-assets/
-   demo/demo.gif
-   screenshots/demo_preview.png
-</pre>
-
-<hr>
 
 <h2>⚙️ How to Run</h2>
 
